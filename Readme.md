@@ -4,7 +4,10 @@
 
 **Стек:** HTML5, CSS3, JavaScript (ES6+), Bootstrap 5, Bootstrap Icons, модульная структура данных (`data.js`).
 
----
+## Демо
+Проект доступен онлайн через **GitHub Pages**:  
+[https://hellogalina.github.io/mock-crm/](https://hellogalina.github.io/mock-crm/)
+
 
 ## Описание
 
